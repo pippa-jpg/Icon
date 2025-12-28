@@ -1,0 +1,9 @@
+{
+  "name": "Pippa",
+  "symbol": "PIPPA",
+  "description": "Pippa is a Solana SPL token for the Pippa community. Official links and updates are available at pippaangel.com.",
+  "image": "https://raw.githubusercontent.com/pippa-jpg/Icon/4fd854c599d1e3ac981e52e5952e4a53f97e52f6/Untitled%20design.png",
+  "extensions": {
+    "website": "https://pippaangel.com"
+  }
+}
